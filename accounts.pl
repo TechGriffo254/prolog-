@@ -1,5 +1,7 @@
 % Define the initial balances of the accounts
 account(account1, 500).
+
+
 account(account2, 300).
 
 % Predicate to create an account
